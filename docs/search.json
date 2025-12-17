@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Richard Montes Lemus",
+    "section": "",
+    "text": "I’m Richie Montes Lemus.\nAn environmental data scientist who spends alot of time exploring how machine learning can revolutionize conservation efforts. I strive for a harmonious blend between technology and nature in everything I do!\nI graduated from the University of California Santa Barbara (UCSB) with a B.S. in Environmental Studies and am currently pursuing my Master’s in Environmental Data Science at UCSB’s Bren School."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Richard Montes Lemus",
+    "section": "",
+    "text": "I’m Richie Montes Lemus.\nAn environmental data scientist who spends alot of time exploring how machine learning can revolutionize conservation efforts. I strive for a harmonious blend between technology and nature in everything I do!\nI graduated from the University of California Santa Barbara (UCSB) with a B.S. in Environmental Studies and am currently pursuing my Master’s in Environmental Data Science at UCSB’s Bren School."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "monteslemusrichard-stri.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
